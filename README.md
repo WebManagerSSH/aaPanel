@@ -44,7 +44,7 @@ wget -O install.sh https://raw.githubusercontent.com/WebManagerSSH/aaPanel/main/
 ** Note: You must install aaPanel for a new system that has not installed other environments such as Apache/Nginx/php/MySQL. It is recommended to use centos 7.X
 
 ## :scroll: CHANGE LOGS
-**VERSION: 1.0.1**
+**VERSION: 6.8.26**
 * File management adds video playback
 * File sharing adds directory sharing and video playback functions
 * Optimize file sharing UI
